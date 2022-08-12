@@ -1,0 +1,11 @@
+name: Teleporttp
+version: '${project.version}'
+main: de.jumichel.Main
+api-version: 1.19
+commands:
+  randomtp:
+    description: Telepotiert zu einer random Location
+    usage: </command>
+  level:
+    description: Fügt Wert Level hinzu.
+    usage: </level [Anzahl]>

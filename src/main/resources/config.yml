@@ -1,0 +1,5 @@
+Config:
+  minx: -1000
+  minz: -1000
+  maxx: 1000
+  maxz: 1000
